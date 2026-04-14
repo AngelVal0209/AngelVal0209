@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Angel 👋
 
 ### 👨‍💻 Ingeniero de Sistemas | Full Stack & Software Architect
 Soy un ingeniero apasionado por la construcción de sistemas robustos y escalables. Mi experiencia abarca desde el desarrollo ágil con frameworks modernos hasta la programación de bajo nivel, lo que me permite entender el ciclo de vida del software desde su arquitectura hasta el hardware.
@@ -15,11 +15,11 @@ Soy un ingeniero apasionado por la construcción de sistemas robustos y escalabl
 - **Frameworks Principales:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-- **Entornos y Herramientas:** ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
+- **Bases de Datos:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+- **Herramientas & Entornos:** ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
 
 ### 🚀 Áreas de Enfoque
 * **Backend Mastery:** Desarrollo de APIs REST y microservicios con Laravel y Spring Boot.
@@ -30,11 +30,10 @@ Soy un ingeniero apasionado por la construcción de sistemas robustos y escalabl
 
 ### 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[AngelVal0209]&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Email:** tu-correo@ejemplo.com
+* **Email:** angel.nvz301606@gmail.com
