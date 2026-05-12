@@ -1,36 +1,76 @@
-# ¡Hola! Soy Angel 👨‍💻✨
+# Angel Núñez Vázquez
 
-### 🚀 Ingeniero de Sistemas | Arquitecto de Software & Full Stack Specialist
+**Ingeniero de Sistemas | Arquitecto de Software | Especialista Full Stack**
 
-No solo escribo código; diseño sistemas que perduran. Mi enfoque va más allá de "hacer que funcione". Me obsesiona la **mantenibilidad**, el **bajo acoplamiento** y la **escalabilidad**. Mi stack me permite ser tan versátil como para optimizar un algoritmo en **C**, hasta orquestar una arquitectura compleja en **Spring Boot** o **Laravel**.
-
----
-
-### 🏛️ Filosofía de Arquitectura
-*Dominio diferentes paradigmas para adaptar la solución al problema:*
-
-* **Arquitectura Hexagonal (Ports & Adapters):** Desacoplo la lógica de negocio para que sea testeable y totalmente independiente de la infraestructura.
-* **MVC & N-Capas:** Estructuro aplicaciones sólidas y organizadas bajo patrones de diseño clásicos y efectivos.
-* **Monolitos Modernos & Microservicios:** Sé cuándo la simplicidad de un monolito es la mejor opción y cuándo escalar hacia APIs REST distribuidas.
+Profesional dedicado al diseño e implementación de soluciones tecnológicas robustas, escalables y mantenibles. Con sólida formación en arquitectura de software y experiencia en diversas plataformas, me enfoco en construir sistemas que equilibren la calidad técnica con los objetivos empresariales.
 
 ---
 
-### 🛠️ Toolbox Técnico
+## 📋 Perfil Profesional
 
-| Categoría | Tecnologías |
+Mi aproximación al desarrollo de software se fundamenta en principios arquitectónicos sólidos:
+
+- **Arquitectura Limpia (Hexagonal):** Separación clara entre lógica de negocio e infraestructura, facilitando testabilidad y flexibilidad
+- **Patrones de Diseño:** Aplicación rigurosa de principios SOLID y patrones reconocidos
+- **Escalabilidad:** Experiencia en monolitos modernos y arquitecturas distribuidas con microservicios
+- **Código de Calidad:** Énfasis en legibilidad, mantenibilidad y documentación técnica
+
+---
+
+## 🔧 Competencias Técnicas
+
+### **Lenguajes de Programación**
+
+| Lenguaje | Descripción |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Data & Infra** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Java** | Programación orientada a objetos, aplicaciones empresariales, concurrencia |
+| **C#** | Desarrollo con .NET, ASP.NET, integración con ecosistema Microsoft |
+| **Python** | Scripting, automatización, análisis de datos, desarrollo rápido |
+| **PHP** | Backend web, desarrollo full-stack, aplicaciones Laravel |
+| **C** | Programación de sistemas, optimización de bajo nivel, algoritmos críticos |
+
+### **Frameworks y Plataformas**
+
+| Framework | Propósito |
+| :--- | :--- |
+| **Spring Boot** | Desarrollo de aplicaciones Java empresariales, microservicios |
+| **.NET / ASP.NET Core** | Aplicaciones web y servicios con arquitectura moderna |
+| **Laravel** | Desarrollo web PHP con patrones MVC consolidados |
+
+### **Gestión de Datos**
+
+| Tecnología | Especialidad |
+| :--- | :--- |
+| **MySQL** | Bases de datos relacionales, optimización de consultas |
+| **PostgreSQL** | Sistemas relacionales avanzados, análisis complejo |
+| **SQL Server** | Integración con ecosistema .NET, stored procedures |
+
+### **Herramientas e Infraestructura**
+
+| Herramienta | Aplicación |
+| :--- | :--- |
+| **Docker** | Containerización, orquestación, entornos reproducibles |
+| **Git** | Control de versiones, flujos colaborativos |
+| **Linux/Windows** | Administración de servidores, despliegue |
 
 ---
 
-### 💡 ¿Por qué trabajar conmigo?
-* **Visión Sistémica:** Entiendo el software desde el bit (C) hasta la nube (.NET/Java).
-* **Código Limpio:** Aplicación rigurosa de principios SOLID y patrones de diseño.
-* **Adaptabilidad:** Capacidad de saltar entre diferentes frameworks y ecosistemas sin perder el enfoque en la calidad.
+## 💼 Fortalezas Diferenciadoras
+
+✓ **Visión Sistémica:** Comprensión integral del stack tecnológico, desde optimización de bajo nivel hasta arquitectura en la nube
+
+✓ **Versatilidad:** Capacidad para transitar entre diferentes lenguajes, frameworks y paradigmas sin comprometer la calidad
+
+✓ **Pragmatismo Técnico:** Balance entre soluciones elegantes y entrega en tiempo, adaptándose a los requisitos reales del negocio
+
+✓ **Comunicación:** Capacidad para transmitir conceptos técnicos complejos de forma clara a equipos multidisciplinares
 
 ---
 
-### 📫 Hablemos de tecnología
-* **Email:** angel.nvz301606@gmail.com
+## 📞 Contacto
+
+**Email:** angel.nvz301606@gmail.com
+
+---
+
+*Última actualización: Mayo 2026*
