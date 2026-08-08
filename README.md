@@ -4,14 +4,14 @@
 
 Profesional dedicado al diseño e implementación de soluciones tecnológicas robustas, escalables y mantenibles. Con sólida formación en arquitectura de software y experiencia en diversas plataformas, me enfoco en construir sistemas que equilibren la calidad técnica con los objetivos empresariales.
 ---
-## 🐍 Serpiente Devoradora de Commits
+## Serpiente Devoradora de Commits
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
----
+
 
 ## 📋 Perfil Profesional
 
