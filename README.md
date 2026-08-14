@@ -5,12 +5,57 @@
 </div>
 
 ```bash
-angel@dev-machine:~$ whoami
+angel@dev-machine:~$ neofetch
 ```
 
-**Angel Valdivia** — Ingeniero de Sistemas | Arquitecto de Software | Especialista Full Stack
+<table>
+<tr>
+<td>
+          .:oadNMMMMNbo:.
+      .:dMMMMMMMMMMMMMMMMd:.
+    :dMMMMMMMMMMMMMMMMMMMMMMd:
+  -dMMMMMMMMMMMMMMMMMMMMMMMMMMd-
+,mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm,
 
-Profesional dedicado al diseño e implementación de soluciones tecnológicas robustas, escalables y mantenibles. Con sólida formación en arquitectura de software y experiencia en diversas plataformas, me enfoco en construir sistemas que equilibren la calidad técnica con los objetivos empresariales.
+:NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:
+IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI
+.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:
+IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI
+:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:
+.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI
+:NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:
+,mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm,
+-dMMMMMMMMMMMMMMMMMMMMMMMMMMd-
+:dMMMMMMMMMMMMMMMMMMMMMMd:
+.:dMMMMMMMMMMMMMMMMd:.
+.:oadNMMMMNbo:.
+
+
+</td>
+<td valign="top">
+angel@dev-machine
+
+OS: Ingeniero de Sistemas (9no Ciclo)
+Host: Universidad Privada del Norte
+Kernel: Arquitecto de Software Full Stack
+Uptime: Desde 2021
+Shell: Arquitectura Limpia (Hexagonal)
+Languages: Java, C#, Python, PHP, C
+Frameworks: Spring Boot, .NET Core, Laravel
+Databases: MySQL, PostgreSQL, SQL Server
+Tools: Docker, Git, Linux
+Contact: angel.nvz301606@gmail.com
+
+
+</td>
+</tr>
+</table>
+
+---
 
 ```bash
 angel@dev-machine:~$ ./contribution_snake.sh --run
@@ -113,4 +158,33 @@ angel@dev-machine:~$ ./run_tech_stack.sh --badges
 angel@dev-machine:~$ grep -r "fortalezas" ./perfil/
 ```
 
-##  Fortalezas Diferenciadoras
+## 💼 Fortalezas Diferenciadoras
+
+[✓] Visión Sistémica -> Comprensión integral del stack, desde bajo nivel hasta cloud
+[✓] Versatilidad -> Transición fluida entre lenguajes, frameworks y paradigmas
+[✓] Pragmatismo Técnico -> Balance entre elegancia técnica y entrega en tiempo
+[✓] Comunicación -> Traducción de conceptos técnicos a equipos multidisciplinares
+
+
+---
+
+```bash
+angel@dev-machine:~$ cat contacto.txt
+```
+
+## 📞 Contacto
+
+Email: angel.nvz301606@gmail.com
+
+
+---
+
+<div align="center">
+
+```bash
+angel@dev-machine:~$ echo "Última actualización: Mayo 2026" && exit
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AngelVal0209&style=flat-square&color=00FF00&label=VISITAS)
+
+</div>
