@@ -1,10 +1,20 @@
-# Angel Valdivia
+<div align="center">
 
-**Ingeniero de Sistemas | Arquitecto de Software | Especialista Full Stack**
+![Terminal Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Angel+Valdivia;Ingeniero+de+Sistemas;Arquitecto+de+Software;Especialista+Full+Stack;echo+%22Bienvenido%22)
+
+</div>
+
+```bash
+angel@dev-machine:~$ whoami
+```
+
+**Angel Valdivia** — Ingeniero de Sistemas | Arquitecto de Software | Especialista Full Stack
 
 Profesional dedicado al diseño e implementación de soluciones tecnológicas robustas, escalables y mantenibles. Con sólida formación en arquitectura de software y experiencia en diversas plataformas, me enfoco en construir sistemas que equilibren la calidad técnica con los objetivos empresariales.
----
-## Serpiente Devoradora de Commits
+
+```bash
+angel@dev-machine:~$ ./contribution_snake.sh --run
+```
 
 <div align="center">
 
@@ -12,6 +22,11 @@ Profesional dedicado al diseño e implementación de soluciones tecnológicas ro
 
 </div>
 
+---
+
+```bash
+angel@dev-machine:~$ cat perfil_profesional.md
+```
 
 ## 📋 Perfil Profesional
 
@@ -24,9 +39,13 @@ Mi aproximación al desarrollo de software se fundamenta en principios arquitect
 
 ---
 
+```bash
+angel@dev-machine:~$ ls -la ./competencias_tecnicas/
+```
+
 ## 🔧 Competencias Técnicas
 
-### **Lenguajes de Programación**
+### `$ cat lenguajes.txt`
 
 | Lenguaje | Descripción |
 | :--- | :--- |
@@ -36,7 +55,7 @@ Mi aproximación al desarrollo de software se fundamenta en principios arquitect
 | **PHP** | Backend web, desarrollo full-stack, aplicaciones Laravel |
 | **C** | Programación de sistemas, optimización de bajo nivel, algoritmos críticos |
 
-### **Frameworks y Plataformas**
+### `$ cat frameworks.txt`
 
 | Framework | Propósito |
 | :--- | :--- |
@@ -44,7 +63,7 @@ Mi aproximación al desarrollo de software se fundamenta en principios arquitect
 | **.NET / ASP.NET Core** | Aplicaciones web y servicios con arquitectura moderna |
 | **Laravel** | Desarrollo web PHP con patrones MVC consolidados |
 
-### **Gestión de Datos**
+### `$ cat gestion_datos.txt`
 
 | Tecnología | Especialidad |
 | :--- | :--- |
@@ -52,7 +71,7 @@ Mi aproximación al desarrollo de software se fundamenta en principios arquitect
 | **PostgreSQL** | Sistemas relacionales avanzados, análisis complejo |
 | **SQL Server** | Integración con ecosistema .NET, stored procedures |
 
-### **Herramientas e Infraestructura**
+### `$ cat herramientas.txt`
 
 | Herramienta | Aplicación |
 | :--- | :--- |
@@ -62,22 +81,36 @@ Mi aproximación al desarrollo de software se fundamenta en principios arquitect
 
 ---
 
-## 💼 Fortalezas Diferenciadoras
+```bash
+angel@dev-machine:~$ ./run_tech_stack.sh --badges
+```
 
-✓ **Visión Sistémica:** Comprensión integral del stack tecnológico, desde optimización de bajo nivel hasta arquitectura en la nube
+<div align="center">
 
-✓ **Versatilidad:** Capacidad para transitar entre diferentes lenguajes, frameworks y paradigmas sin comprometer la calidad
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
+<br/>
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
+<br/>
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
-✓ **Pragmatismo Técnico:** Balance entre soluciones elegantes y entrega en tiempo, adaptándose a los requisitos reales del negocio
-
-✓ **Comunicación:** Capacidad para transmitir conceptos técnicos complejos de forma clara a equipos multidisciplinares
+</div>
 
 ---
 
-## 📞 Contacto
+```bash
+angel@dev-machine:~$ grep -r "fortalezas" ./perfil/
+```
 
-**Email:** angel.nvz301606@gmail.com
-
----
-
-*Última actualización: Mayo 2026*
+##  Fortalezas Diferenciadoras
